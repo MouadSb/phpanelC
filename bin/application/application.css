@@ -1,0 +1,30 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+#btn_suivant {
+	-fx-background-image: url("../images/btn_vert.png");
+	-fx-background-size: 100% 100%;
+	-fx-background-repeat: no-repeat;
+	-fx-border-color: transparent ;
+}
+
+#btn_suivant:hover{
+	-fx-background-image: url("../images/btn_gris.png");
+	-fx-background-size: 100% 100%;
+	-fx-background-repeat: no-repeat;
+}
+
+
+#btn_select {
+	-fx-background-image: url("../images/btn_gris.png");
+	-fx-background-size: 100% 100%;
+	-fx-background-repeat: no-repeat;
+	-fx-border-color: transparent ;
+}
+
+#btn_select:hover{
+	-fx-background-image: url("../images/btn_vert.png");
+	-fx-background-size: 100% 100%;
+	-fx-background-repeat: no-repeat;
+}
+
+.button { -fx-focus-color: transparent; }

@@ -1,0 +1,6 @@
+#btn_suivant {
+	-fx-background-image: url("../images/btn_vert.png");
+	-fx-background-size: 25 85;
+	-fx-background-repeat: no-repeat;
+	-fx-background-position:left;
+}
